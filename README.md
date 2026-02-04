@@ -37,10 +37,6 @@ Sistema completo de agendamento para barbearia com backend em Java (Spring Boot)
 - React Query
 - react-big-calendar
 
-## Pré-requisitos
-
-- Docker e Docker Compose
-- (Para desenvolvimento) Java 21, Maven, Node.js 20+
 
 ## Início Rápido
 
